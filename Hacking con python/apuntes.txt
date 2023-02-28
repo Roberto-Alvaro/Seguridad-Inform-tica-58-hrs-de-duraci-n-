@@ -1,0 +1,5 @@
+ip privada: red local, interna, de nuestra casa o empresa
+ip publica: internet, con el mundo
+
+dhcp --> hace que no se repita una ip en la red
+dns --> traduce los dominios
