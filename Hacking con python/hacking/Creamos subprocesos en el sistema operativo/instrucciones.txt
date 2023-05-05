@@ -1,0 +1,3 @@
+realizar acciones en el so sin que sepa el usuario
+libreria subprocess
+libreria os

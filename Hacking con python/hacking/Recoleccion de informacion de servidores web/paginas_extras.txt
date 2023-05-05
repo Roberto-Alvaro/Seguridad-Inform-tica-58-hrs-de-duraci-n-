@@ -1,0 +1,2 @@
+https://www.ibm.com/docs/es/itcam-transactions/7.4.0.1?topic=monitor-dns-query-types
+https://viewdns.info/reverseip/

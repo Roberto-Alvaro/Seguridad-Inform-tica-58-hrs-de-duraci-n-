@@ -1,5 +1,18 @@
+-------------------------------------------------------------------
 ip privada: red local, interna, de nuestra casa o empresa
 ip publica: internet, con el mundo
 
 dhcp --> hace que no se repita una ip en la red
 dns --> traduce los dominios
+-------------------------------------------------------------------
+librerias principales
+requests ---> pip install requests/trabaja con peticiones http
+bs4 ---> pip install bs4
+html5lib ---> pip install html5lib
+tambien para ejecutar los programas deben ser versiones 2.7.x y 3.8.x de python 
+-------------------------------------------------------------------
+* Vulnerabilidades en aplicaciones web hechas en wordpress *
+
+No todo error significa que nos hayamos equivocado en la programacion, como el ejemplo del error, 
+HTTP error 403: Forbidden, el cual significa que del lado del servidor web, no permite la lectura, es una barrera que no es vulnerable 
+-------------------------------------------------------------------------------------------
